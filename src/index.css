@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.bg-color{
+  background-color: aquamarine;
+  border: 0;
+}
+.day{
+  background-color: antiquewhite;
+}
+
+
+.progressBar{
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: aquamarine;
+  width: 50%;
+  height: 4px;
+}
+.cursor{
+  cursor: pointer;
+}
